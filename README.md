@@ -24,7 +24,7 @@ Now powered by **Hypridle**, the Wayland-native idle detection daemon.
 | `~/.config/breakscript/rice-overwork-check.sh` | Main script triggered by Hypridle |
 | `~/.config/breakscript/insults.txt` | Random insults to keep you humble |
 | `~/.config/systemd/user/ricebreak.service` | Optional persistent background service (not required with hypridle) |
-| `~/.config/hypr/scripts/start-ricebreak-if-needed.sh` | Starts service (optional) |
+| `~/.config/breakscript/start-rice-daemon.sh` | Starts service (optional) |
 | `~/.config/hypr/hypridle.conf` | Hypridle config that triggers the break script |
 
 ---
